@@ -1,0 +1,24 @@
+{
+  "name": "timey",
+  "version": "1.0.0",
+  "description": "An embeddable timeline canvas renderer  s",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "npm run build -- -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/horup/timey.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/horup/timey/issues"
+  },
+  "homepage": "https://github.com/horup/timey#readme",
+  "dependencies": {
+    "local-web-server": "^2.5.1",
+    "typescript": "^2.7.2"
+  }
+}

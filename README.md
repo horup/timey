@@ -1,2 +1,2 @@
 # timey
-An embeddable timeline canvas renderer  s
+An embeddable timeline canvas renderer
